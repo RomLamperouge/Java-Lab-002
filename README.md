@@ -27,12 +27,18 @@ false
 
 ### Part 2 - Interpretation
 Take note of the various variables and their data types. Write a brief summary in this section of the README.md file listing the:
-* Variable name
-* Its data type
-* and example values you can assign them.
+ 
+The int variable is interesting to me. The integer variable allowed this assignment to be really easy. The integer variable was a 
+simple solution that allowed me to change one number and half the assignment was done. That 3 is linked to the other numbers so it will duplicate 
+them to the set amount completing the hotdogs, popcorn, and soda quickly. An example of how this works is if the tickets are 14.00 then two 
+are the 28 so a third is the 42 we needed.
 
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
 * Hint: your IDE can help you discover these!
+
+One example is if I were to change int value to ticket price because it would switch numbers around.
+Another example is if I were to change my double value to ticket value I would drastically hike the consumable prices 
+to almost accurate prices.
 
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
 
